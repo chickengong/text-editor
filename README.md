@@ -18,7 +18,7 @@ Heroku deployed app:
 
 To Install:
 
-Clone the repository from GitHub ().
+Clone the repository from GitHub (https://github.com/chickengong/text-editor).
 
 Run these in your terminal:
 
