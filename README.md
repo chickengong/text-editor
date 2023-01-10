@@ -34,7 +34,6 @@ Run this in your terminal as well:
 npm run start
 ```
 
-Direct your browser to ""
 
 ## Features
 
